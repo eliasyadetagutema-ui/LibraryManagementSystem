@@ -48,10 +48,16 @@ o OverdueNoticeEvent
 Step 4: GitLab / GitHub Accounts (Example)
 Student Name GitLab Username Account Type
 Elias Yadeta elias.yadeta Personal
+
+
 Kayof Negaro kayof.negaro Personal
+
 Girma Gadisa girma.gadisa Personal
+
 Kasahun Getu kasahun.getu Personal
+
 Tolesa Taresa tolesa.taresa Personal
+
 Each student created and managed their personal GitLab account using personal emails. No
 shared accounts were used.
 Step 5: Initial Submission

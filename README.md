@@ -46,7 +46,10 @@ o BookCheckedOutEvent
 o BookReturnedEvent
 o OverdueNoticeEvent
 Step 4: GitLab / GitHub Accounts (Example)
+
 Student Name GitLab Username Account Type
+
+
 Elias Yadeta elias.yadeta Personal
 
 

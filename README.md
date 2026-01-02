@@ -59,7 +59,7 @@ Girma Gadisa girma.gadisa Personal
 
 Kasahun Getu kasahun.getu Personal
 
-Ababoo Degaga Ababoo .Degaga Personal
+Ababo Degaga Ababo .Degaga Personal
 
 Tolesa Taresa tolesa.taresa Personal
 

@@ -59,6 +59,8 @@ Girma Gadisa girma.gadisa Personal
 
 Kasahun Getu kasahun.getu Personal
 
+Ababoo Degaga Ababoo .Degaga Personal
+
 Tolesa Taresa tolesa.taresa Personal
 
 Each student created and managed their personal GitLab account using personal emails. No
